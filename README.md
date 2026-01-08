@@ -2,7 +2,7 @@
 
 <h2>1001개의 Xing 소셜 네트워크 샘플 データセット</h2>
 
-![Xing dataset header](https://github.com/luminati-io/Xing-dataset-samples/blob/main/Xing-datasets%20(1).png)
+![Xing dataset header](https://github.com/bright-kr/Xing-dataset-samples/blob/main/Xing-datasets%20(1).png)
 
 1000개 이상의 레코드로 구성된 Xing データセット 샘플입니다. データセット은 <b>Bright Data API</b>를 사용하여 추출되었습니다.
 
